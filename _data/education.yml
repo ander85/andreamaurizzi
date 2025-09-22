@@ -1,13 +1,28 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+# Education
+- degree: IFTS - Tecnico sistemi informativi
+  uni: Cofimp
+  year: 2005 — 2006
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 
+  summary: Formazione tecnica avanzata su sistemi informatici, reti e tecnologie IT.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: ECDL
+  uni: ITI Aldini Valeriani Sirani
+  year: 2006
+  awards:
+    - award: 
+  summary: Certificazione competenze informatiche di base.
+
+- degree: Diploma in Ragioneria
+  uni: Istituto Crescenzi Pacinotti
+  year: 2005
+  awards:
+    - award: 
+  summary: Specializzazione in contabilità, business analysis informatica.
+
+- degree: SAP Overview
+  uni: SAP Italia S.p.A
+  year: 2007
+  awards:
+    - award: 
+  summary: Formazione su sistemi gestionali SAP.
