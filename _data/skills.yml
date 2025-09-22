@@ -1,12 +1,27 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Digital Analytics
+  description: Google Analytics, Adobe Analytics, Matomo, GTM, Adobe Launch
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Consent Management
+  description: OneTrust, Cookiebot, Iubenda
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: A/B Testing & Optimization
+  description: Eloqua, Adobe Target
+
+- skill: Performance Monitoring
+  description: Dynatrace, NewRelic, DataDog
+
+- skill: Customer Experience
+  description: IBM Tealeaf, Hotjar, Microsoft Clarity
+
+- skill: SEO Tools
+  description: SEMrush, ScreamingFrog, Google Search Console
+
+- skill: DevOps & Infrastructure
+  description: VMware, Docker
+
+- skill: Programming & Markup
+  description: HTML, CSS, JavaScript, Markdown
+
+- skill: Lingue
+  description: Italiano (madrelingua), Inglese (C1/B2)
