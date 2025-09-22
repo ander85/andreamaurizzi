@@ -1,28 +1,47 @@
 # Education
-- degree: IFTS - Tecnico sistemi informativi
-  uni: Cofimp
-  year: 2005 — 2006
+- degree: IFTS - Technician for the design and administration of information systems and technologies
+  uni: Cofimp, Bologna
+  year: 09/2005 — 05/2006
   awards:
-    - award: 
-  summary: Formazione tecnica avanzata su sistemi informatici, reti e tecnologie IT.
+    - award: Livello EQF 5
+  summary: Formazione tecnica avanzata su sistemi informativi e tecnologie, con focus su progettazione, gestione reti e amministrazione infrastrutture IT.
+
+- degree: High school diploma in accounting
+  uni: Istituto Tecnico Commerciale Crescenzi Pacinotti, Bologna
+  year: 06/2005
+  awards:
+    - award: Livello EQF 4
+  summary: Diploma in ragioneria, competenze amministrative, contabilità e analisi di business.
 
 - degree: ECDL
-  uni: ITI Aldini Valeriani Sirani
-  year: 2006
+  uni: ITI Aldini Valeriani Sirani, Bologna
+  year: 01/2006
   awards:
-    - award: 
-  summary: Certificazione competenze informatiche di base.
+    - award:
+  summary: Certificazione informatica europea (ECDL): Office, sistemi operativi, internet, sicurezza.
 
-- degree: Diploma in Ragioneria
-  uni: Istituto Crescenzi Pacinotti
-  year: 2005
+- degree: SAP overview
+  uni: SAP Italia S.p.A, Milano
+  year: 02/2007
   awards:
-    - award: 
-  summary: Specializzazione in contabilità, business analysis informatica.
+    - award:
+  summary: Formazione pratica su sistemi gestionali SAP.
 
-- degree: SAP Overview
-  uni: SAP Italia S.p.A
-  year: 2007
+# Certificazioni aggiuntive
+- degree: Certificazioni professionali
+  uni: —
+  year: —
   awards:
-    - award: 
-  summary: Formazione su sistemi gestionali SAP.
+    - award: OneTrust Cookie Consent Expert (04/2022)
+    - award: OneTrust Consent Preference Management Expert (03/2022)
+    - award: OneTrust Certified Privacy Professional (03/2022)
+    - award: Google Analytics Individual Qualification (04/2021)
+    - award: Google Tag Manager Fundamentals (01/2021)
+    - award: SEO Fundamentals Exam (11/2020)
+    - award: Dynatrace Associate (02/2018)
+    - award: IBM Tealeaf Technical Mastery Test v1 (04/2014)
+    - award: Tealeaf v8 Certified Professional (05/2012)
+    - award: Advanced Splunk 4.3 Administration (05/2012)
+    - award: Unica NetInsight Technical Professional v1 (09/2011)
+    - award: Webtrends Certified Professional (08/2010)
+  summary: Attestati e certificazioni tecniche in ambito data analytics, privacy, SEO, APM, digital performance monitoring.
