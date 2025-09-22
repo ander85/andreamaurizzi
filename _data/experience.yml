@@ -4,9 +4,9 @@
   duration: 02/2023 — Attuale
   summary: |
     A seguito dell'acquisizione di Sysdata da parte di Globant ho mantenuto il ruolo e le mansioni precedenti, ampliando il mio campo d’azione su progettualità complesse e internazionali legate al Martech. In particolare, ho maturato esperienza su:
-    - **Consent Management multipiattaforma:** gestione end-to-end catalogazione cookies su molti domini, manutenzione/ottimizzazione piattaforme, reporting, configurazione banner GDPR/CCPA, coordinamento team legale/privacy. (OneTrust, Cookiebot, Iubenda)
-    - **AB Testing e ottimizzazione:** pianificazione, esecuzione, analisi test multivariati/AB per ottimizzare la customer journey e conversioni; integrazione dati test su dashboard analytics/processi reporting. (Eloqua, Adobe Target)
-    - **Specializzazione DevOps AI per Martech:** pratiche DevOps (containerizzazione, versionamento) e soluzioni AI (machine learning per personalizzazione, predictive analytics, automazioni) su funnel digitali.
+    - **Consent Management multipiattaforma:** gestione end-to-end della catalogazione dei cookies su molteplici domini, manutenzione e ottimizzazione delle piattaforme, supervisione dei processi di reporting, configurazione e personalizzazione dei banner di consenso per garantire l’aderenza alle normative europee e internazionali. Coordinamento con i team legali e privacy per assicurare l’aggiornamento continuo dell’inventario e compliance (OneTrust, Cookiebot, Iubenda)
+    - **A/B Testing e ottimizzazione:** pianificazione, esecuzione e analisi di test multivariati e A/B finalizzati a ottimizzare la customer journey e massimizzare i tassi di conversione. Integrazione diretta dei dati di test nelle dashboard di analytics e nei processi di reporting (Eloqua, Adobe Target)
+    - **Specializzazione DevOps & AI per Martech:** consolidamento delle competenze su pratiche DevOps applicate al Digital Analytics (containerizzazione e versionamento) e sulle soluzioni AI per il marketing (machine learning per personalizzazione, predictive analytics, automazioni intelligenti su funnel digitali), per rafforzare la capacità di guidare progetti complessi in ambito enterprise
    
     Questo ruolo mi ha permesso di integrare competenze tecniche avanzate con approcci innovativi di DevOps e AI, rafforzando la mia capacità di guidare progetti Martech articolati.
 
@@ -16,9 +16,9 @@
   duration: 11/2021 — 02/2023
   summary: |
     Nel team Digital Analytics di Sysdata ho ricoperto un ruolo di riferimento per la gestione e l’evoluzione dei tracciamenti dati, occupandomi di:
-    - Implementazione e governance tracciamenti web/mobile (Google Analytics, Adobe Analytics, Matomo): progettazione, implementazione e manutenzione tag su GTM e Adobe Launch, coordinamento team tecnici/digital marketing.
-    - Data Analysis & Dashboarding: sviluppo dashboard personalizzate (Data Studio, Adobe Analytics), analisi quantitativa e reporting periodico con focus su CRO.
-    - Ottimizzazione Customer Experience: utilizzo piattaforme session analysis/customer feedback (Hotjar, Microsoft Clarity) per identificare pain point e migliorare user journey.
+    - **Implementazione e governance tracciamenti web/mobile:**: gestione avanzata di soluzioni di monitoraggio su stack Google Analytics, Adobe Analytics e Matomo. Progettazione, implementazione e manutenzione di tag su Google Tag Manager e Adobe Launch. Coordinamento tra team tecnici e digital marketing per garantire l’affidabilità dei dati e la scalabilità delle soluzioni di tracking su ecosistemi web e mobile
+    - **Data Analysis & Dashboarding:** sviluppo, aggiornamento e manutenzione di dashboard personalizzati tramite strumenti di data visualization, traducendo grandi volumi di dati digitali in insight azionabili per management e stakeholder di progetto. Attività di analisi quantitativa, reporting periodico e presentazione di risultati in ottica di CRO e data-driven strategic decision making (Data Studio, Adobe Analytics)
+    - **Ottimizzazione Customer Experience:** utilizzo di piattaforme di session analysis e customer feedback per rilevare pain point e opportunità di miglioramento della user journey, collaborando all’implementazione di soluzioni UX per incrementare engagement e conversioni. Supporto all’adozione di strumenti di heatmapping, recordings e survey (Hotjar, Microsoft Clarity)
    
     Questa esperienza ha consolidato la mia capacità di trasformare dati complessi in insight strategici per decisioni marketing data-driven.
 
@@ -27,67 +27,75 @@
   duration: 07/2019 — 11/2021
   summary: |
     Dopo l'acquisizione di Tecla ho approfondito le competenze su Google Analytics e GTM.
-    - Data Tracking & Analytics: verifica, ottimizzazione ed estensione tracciamenti digitali su architetture esistenti/nuove, curando qualità/coerenza dei dati.
-    - Reportistica & Analisi ad hoc: dashboard e report personalizzati per specifiche esigenze cliente, supportando interpretazione dati per decisioni di business.
-    - Formazione SEO estesa: affiancamento consulenza analytics con best practice SEO (Semrush, ScreamingFrog, Google Search Console).
-    Ho sviluppato una visione integrata di analytics e SEO per consulenza efficace.
+    - **Data Tracking & Analytics:** verifica, ottimizzazione ed estensione dei tracciamenti digitali, sia su architetture esistenti che in fase di nuova implementazione, garantendo la qualità e la coerenza dei dati raccolti
+    - **Reportistica & Analisi ad hoc:** creazione di dashboard e report personalizzati per specifiche esigenze cliente, supportando proattivamente la comprensione e l’interpretazione dei dati digitali per decisioni di business
+    - **Formazione SEO estesa:** partecipazione a un piano formativo SEO per fornire consulenza integrata su presenza digitale, affiancando strategia di analytics con best practice di ottimizzazione organica (Semrush, ScreamingFrog, Google Search Console)
+    
+    Ho sviluppato una visione completa dei processi di digital analytics e SEO, che mi ha permesso di fornire consulenza efficace e integrata ai clienti.
 
 - company: Tecla.it S.r.l.
   position: Web Performance Expert
   duration: 06/2017 — 07/2019
   summary: |
-    Subject Matter Expert nel nuovo dipartimento di monitoraggio prestazionale.
-    - Consulenza specialistica su Web e Application Performance Management (APM): analisi approfondita, supporto tecnico/funzionale e personalizzazione su progetti/cliente.
-    - Gestione piattaforme APM (Dynatrace, NewRelic, DataDog): installazione, aggiornamento, migrazione e integrazione nei sistemi.
-    - Collaborazione cross-funzionale con sviluppo, QA e business per insight e azioni correttive sulle performance.
-    Ho affinato competenze tecniche/consulenziali e garantito standard qualitativi elevati.
+    Sono stato assunto come Subject Matter Expert (SME) con l’incarico di supportare la costituzione di un nuovo dipartimento dedicato al monitoraggio prestazionale all’interno del ciclo produttivo aziendale. L’obiettivo principale era garantire un elevato standard qualitativo sui prodotti sviluppati attraverso:
+    - **Consulenza specialistica su Web e Application Performance Management (APM):** analisi approfondita, supporto tecnico/funzionale e personalizzazione su progetti/cliente.
+    - **Gestione piattaforme APM (Dynatrace, NewRelic, DataDog):** responsabilità tecnica su installazione, aggiornamento e migrazione delle piattaforme APM assicurando continuità operativa e integrazione con i sistemi esistenti (Dynatrace, NewRelic, DataDog)
+    - **Collaborazione cross-funzionale:** lavoro sinergico con team di sviluppo, quality assurance e business per fornire insight sulle performance e suggerire azioni correttive tempestive
+    
+    In questo ruolo ho affinato competenze tecniche e consulenziali, contribuendo a garantire elevati standard qualitativi nei prodotti digitali.
 
 - company: BitBang S.r.l.
   position: Head of Web Performance Department
   duration: 05/2015 — 06/2017
   summary: |
-    Responsabile divisione Web Performance con compiti gestionali, strategici e commerciali.
-    - Coordinamento operativo/strategico del team: motivazione, allocazione e sviluppo risorse.
-    - Sviluppo strategia dipartimentale: vision, obiettivi, roadmap in allineamento con l'azienda.
-    - Offerte commerciali: analisi bisogni, scope progetti, selezione tecnologie.
-    - Decision making tool e partnership: scelta piattaforme monitoring/vendor, negoziazioni.
-    - Web Performance Management: supervisione progetti ottimizzazione performance per clienti.
-    Ho maturato capacità manageriali e strategiche, indirizzando team/tecnologie verso l’eccellenza operativa e commerciale.
+    Da maggio 2015 sono stato promosso a responsabile della divisione Web Performance, con responsabilità gestionali, strategiche e commerciali. In questo ruolo ho diretto le attività del team, partecipato attivamente alla formulazione delle offerte commerciali ed acquisito potere decisionale sulle strategie del team sia per quanto riguarda i tool da adottare che le partnership con i relativi vendor
+    - **Leadership e gestione del team:** coordinamento operativo e strategico del team Web Performance, con focus su motivazione, allocazione risorse e sviluppo professionale delle risorse
+    - **Sviluppo della strategia:** partecipazione attiva alla definizione della vision, degli obiettivi e delle roadmap del dipartimento, allineata con le strategie aziendali e di business
+    - **Formulazione e gestione offerte commerciali:** contributo diretto nella preparazione di proposte commerciali, includendo analisi dei bisogni, definizione scope di progetto e selezione delle tecnologie più adeguate
+    - **Decision making su tool e partnership:** acquisizione di potere decisionale e responsabilità nella scelta delle piattaforme tecnologiche, tool di monitoraggio e vendor, con l’obiettivo di garantire l’eccellenza tecnica e competitività del team
+    - **Collaborazione con vendor esterni:** negoziazione e gestione delle relazioni con partner tecnologici e fornitori, per mantenere aggiornato il parco strumenti e accedere a soluzioni innovative
+    - **Web Performance Management:** supervisione dei progetti di monitoraggio e ottimizzazione della performance web per i clienti, garantendo il rispetto delle aspettative qualitative
+
+    Come responsabile di team ho maturato capacità manageriali e strategiche, indirizzando team e tecnologie verso l’eccellenza operativa e commerciale.
 
 - company: BitBang S.r.l.
   position: Web Performance Analyst
   duration: 06/2009 — 05/2015
   summary: |
-    Competenze avanzate in performance monitoring/digital analytics.
-    - Gestione e ottimizzazione piattaforme monitoring: Synthetic Monitoring, Real User Monitoring, Load Testing, Web Performance Optimization (Dynatrace, Keynote, Catchpoint, ObservePoint).
-    - Progetti/PoC enterprise: analisi prestazionale multi-industry con focus su risultati business.
-    - Customer Experience Management: implementazione/gestione IBM Tealeaf.
-    - Digital Analytics: certificazioni Webtrends e Unica NetInsight, uso collaborativo Adobe Analytics e Google Analytics.
-    - Auditing e qualità del dato: auditing e certificazione tracciamenti, affidabilità metriche (ObservePoint).
-    Esperienza tecnica e comprensione esigenze business per monitoring avanzato.
+    Nel ruolo di Web Performance Analyst presso BitBang ho maturato competenze approfondite in ambito performance monitoring e digital analytics:
+    - **Gestione e ottimizzazione piattaforme di monitoraggio:** utilizzo esperto di strumenti di Synthetic Monitoring, Real User Monitoring, Load Testing e Web Performance Optimization per analisi e miglioramento continuo delle prestazioni web (Dynatrace, Keynote, Catchpoint)
+    - **Progetti e Proof of Concepts (PoC):** conduzione di progetti di analisi prestazionale a livello enterprise per clienti italiani in diversi settori, con particolare specializzazione in finance, fashion e retail. Focus costante su risultati misurabili e valore di business
+    - **Customer Experience Management:** implementazione e gestione di IBM Tealeaf per mappare il comportamento degli utenti e ottimizzare l’esperienza digitale in ambienti banking, telecomunicazioni e travel
+    - **Digital Analytics:** certificazioni Webtrends e Unica NetInsight, con esperienza collaborativa su Adobe Analytics e Google Analytics
+    - **Auditing e qualità del dato:** applicazione di metodologie di auditing e certificazione della qualità dei tracciamenti per garantire l’affidabilità delle metriche digitali fornite ai clienti (ObservePoint)
+
+Questa esperienza mi ha fornito una solida base tecnica e una profonda comprensione delle esigenze di business legate al monitoraggio delle performance.
 
 - company: Giesse Gruppo Industriale S.p.A.
   position: IT System/Network Support
   duration: 04/2006 — 06/2009
   summary: |
-    Gestione/manutenzione infrastruttura IT aziendale, continuità operativa e supporto tecnico:
-    - Amministrazione/replica dati tra sedi (Double Take).
-    - Asset management IT/mobile, Service Desk centralizzato.
-    - Gestione server farm e infrastruttura VMware.
-    - Sicurezza IT: proxy, web filtering, VPN, firewall.
-    - Sistemi videoconferenza Polycom, supporto tecnico.
-    - Backup, controllo integrità e gestione SAP.
-    - Help Desk e supporto tecnico diretto per utenti/ticket.
-    - Aggiornamento hardware/software postazioni CAD.
-    - Documentazione tecnica, procedurale e infrastrutturale.
-    Ho consolidato competenze infrastrutturali e supporto su ambienti complessi.
+    In qualità di IT System&Network Support presso Giesse Gruppo Industriale mi sono occupato della gestione e manutenzione dell’infrastruttura IT aziendale, assicurando la continuità operativa e il supporto tecnico per diverse aree di responsabilità
+    - **Amministrazione e replica dati:** supervisione e gestione dei processi di data replication tra le sedi branch, con implementazione hands-on di soluzioni come Double Take per garantire la ridondanza e disponibilità dei dati
+    - **Gestione mobile e asset IT:** amministrazione e supporto di dispositivi mobili per key account, con responsabilità sull’asset management IT e l’implementazione di un sistema di Service Desk centralizzato per la gestione dell’inventario hardware/software
+    - **Manutenzione server farm e infrastruttura virtuale:** gestione completa della server farm, incluse attività di monitoraggio, manutenzione e ottimizzazione dell'infrastruttura VMware per migliorare l’efficienza operativa
+    - **Sicurezza IT:** amministrazione e manutenzione di soluzioni di sicurezza quali proxy, web filtering, VPN e firewall per garantire la protezione della rete e la compliance con le policy aziendali
+    - **Sistemi di videoconferenza:** installazione e supporto tecnico di soluzioni di videoconferenza basate su sistemi Polycom, facilitando la comunicazione aziendale tra sedi e con clienti
+    - **Backup e controllo integrità:** verifica regolare dello stato di salute e dell’integrità dei backup aziendali per prevenire perdite di dati e garantire la disponibilità informativa
+    - **Gestione SAP:** monitoraggio quotidiano e manutenzione operativa dei sistemi SAP per assicurare un funzionamento regolare e risolvere rapidamente eventuali anomalie
+    - **Help Desk e supporto tecnico:** assistenza diretta agli utenti, gestione dei ticket di supporto e risoluzione di problemi IT sia per la sede centrale che per le filiali internazionali
+    - **Upgrade postazioni CAD:** coordinamento del rinnovo degli strumenti hardware e software delle postazioni CAD presso l’ufficio tecnico
+    - **Documentazione tecnica:** redazione di documenti tecnici, infrastrutturali e procedurali per aumentare la trasparenza e la standardizzazione operativa del dipartimento IT
+
+    Il ruolo ha consolidato le mie competenze infrastrutturali e di supporto tecnico in ambienti complessi, permettendomi di sviluppare un approccio focalizzato sulla capacità di adattamento e sull'orientamento al servizio.
 
 - company: BCC Credito Cooperativo
   position: Internship
   duration: 06/2004 — 07/2004
   summary: |
-    Stage formativo presso BCC Credito Cooperativo:
-    - Gestione/riordino archivio conti/titoli, digitalizzazione/ottimizzazione archivi documentali.
-    - Operazioni bancarie di base, supporto operativo su processi front-office, amministrativi e di gestione flussi informativi.
-    - Affiancamento team operativo su attività di back-office, gestione procedure e informazioni sensibili.
-    Queste attività hanno fornito la base delle competenze IT/digital successive.
+    Durante lo stage formativo previsto dal programma delle scuole superiori presso BCC Credito Cooperativo ho avuto l’opportunità di entrare in contatto con il mondo bancario occupandomi di:
+    - **Gestione archivio conti e titoli:** riordino, digitalizzazione e ottimizzazione degli archivi documentali relativi a conti correnti e depositi titoli, migliorando l’efficienza nelle consultazioni e nelle operazioni interne
+    - **Operazioni bancarie di base:** supporto operativo nelle attività quotidiane della banca, contribuendo a gestire flussi di lavoro amministrativi e di front-office
+    - **Supporto al team operativo:** affiancamento al personale nell’esecuzione di attività di back-office, acquisendo conoscenze sulle procedure bancarie e sulla gestione delle informazioni sensibili
+
+    Le prime esperienze operative e organizzative in ambito bancario hanno costituito una base solida per le successive competenze IT e digital.
