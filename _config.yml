@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "/andrea.jpg"
+resume_avatar:                  "andrea.jpg"
 resume_name:                    "Andrea Maurizzi"
 resume_title:                   "Digital Analytics Consultant / Martech Expert"
 
