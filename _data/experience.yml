@@ -1,19 +1,65 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Experience
+- company: Globant
+  position: Analytics Martech
+  duration: 02/2023 — Attuale
+  summary: |
+    - Consent Management multipiattaforma: gestione cookies, ottimizzazione piattaforme, supervisione reporting, configurazione banner di consenso GDPR/CCPA, coordinamento con team legale/privacy.
+    - A/B Testing e ottimizzazione: pianificazione, esecuzione e analisi test multivariati/A/B, integrazione dati nei processi analytics e reporting.
+    - Specializzazione DevOps AI per Martech: pratiche DevOps su Digital Analytics e soluzioni AI per marketing.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Sysdata S.p.A.
+  position: Digital Analytics Consultant
+  duration: 11/2021 — 02/2023
+  summary: |
+    - Implementazione e governance tracciamenti: gestione stack Google Analytics / Adobe Analytics / Matomo, tag management.
+    - Data Analysis & Dashboarding: dashboard personalizzate, analisi quantitativa & reporting per CRO.
+    - Ottimizzazione Customer Experience: session analysis, heatmap, recordings, survey.
 
+- company: Lutech S.p.A.
+  position: Digital Marketing Analyst
+  duration: 07/2019 — 11/2021
+  summary: |
+    - Data Tracking & Analytics: verifica/ottimizzazione tracciamenti digitali.
+    - Reportistica & Analisi ad hoc: dashboard e report personalizzati.
+    - Formazione SEO estesa: consulenza integrata e strumenti SEO.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Tecla.it S.r.l.
+  position: Web Performance Expert
+  duration: 06/2017 — 07/2019
+  summary: |
+    - Consulenza specialistica su Web e APM.
+    - Gestione piattaforme APM (Dynatrace, NewRelic, DataDog).
+    - Collaborazione cross-funzionale.
+
+- company: BitBang S.r.l.
+  position: Head of Web Performance Department
+  duration: 05/2015 — 06/2017
+  summary: |
+    - Leadership e gestione team
+    - Sviluppo strategia dipartimentale
+    - Gestione offerte e partnership tecnologiche
+    - Web Performance Management
+
+- company: BitBang S.r.l.
+  position: Web Performance Analyst
+  duration: 06/2009 — 05/2015
+  summary: |
+    - Performance Monitoring: Synthetic/Real User Monitoring, Load Testing.
+    - Progetti enterprise e analytics.
+    - Customer Experience Management.
+    - Digital Analytics.
+    - Auditing e qualità del dato.
+
+- company: Giesse Gruppo Industriale S.p.A.
+  position: IT System/Network Support
+  duration: 04/2006 — 06/2009
+  summary: |
+    - Gestione infrastruttura IT.
+    - Amministrazione asset, server farm, backup, sicurezza.
+    - Supporto tecnico e helpdesk.
+
+- company: BCC Credito Cooperativo
+  position: Internship
+  duration: 06/2004 — 07/2004
+  summary: |
+    - Gestione archivio, supporto operativo in banca.
