@@ -1,6 +1,6 @@
 # Skills
 - skill: Digital Analytics
-  description: Google Analytics, Adobe Analytics, Matomo, GTM, Adobe Launch
+  description: Google Analytics, Adobe Analytics, Matomo, Google Tag Manager, Adobe Launch
 
 - skill: Consent Management
   description: OneTrust, Cookiebot, Iubenda
@@ -9,19 +9,28 @@
   description: Eloqua, Adobe Target
 
 - skill: Performance Monitoring
-  description: Dynatrace, NewRelic, DataDog
+  description: Dynatrace, NewRelic, DataDog, Keynote, Catchpoint
 
 - skill: Customer Experience
   description: IBM Tealeaf, Hotjar, Microsoft Clarity
+
+- skill: Data Visualization
+  description: Google Data Studio, Adobe Analytics dashboards
 
 - skill: SEO Tools
   description: SEMrush, ScreamingFrog, Google Search Console
 
 - skill: DevOps & Infrastructure
-  description: VMware, Docker
+  description: VMware, Docker, containerizzazione
+
+- skill: Database & Analytics
+  description: Splunk, ObservePoint
 
 - skill: Programming & Markup
   description: HTML, CSS, JavaScript, Markdown
 
+- skill: Certificazioni
+  description: OneTrust, Google Analytics, Dynatrace, IBM Tealeaf, Webtrends
+
 - skill: Lingue
-  description: Italiano (madrelingua), Inglese (C1/B2)
+  description: Italiano (madrelingua), Inglese (C1 ascolto/lettura/orale, B2 scrittura)
