@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: "Andrea Maurizzi"
-resume_avatar: "/image.jpg"
+resume_avatar: "/andrea.jpg"
 resume_name: "Andrea Maurizzi"
 resume_title: "Digital Analytics Consultant / Martech Expert"
 resume_contact_email: "la-tua-email@esempio.com"
