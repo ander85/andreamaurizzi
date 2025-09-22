@@ -10,7 +10,7 @@ resume_linkedin_url: "https://linkedin.com/in/tuo-profilo"
 resume_website_url: "https://ander85.github.io"
 resume_location: "Bologna, Italia"
 resume_header_intro: "Esperto in Digital Analytics e Martech con oltre 15 anni di esperienza nel settore IT. Specializzato in implementazione e governance di tracciamenti web/mobile, Consent Management multipiattaforma, A/B Testing e ottimizzazione, e soluzioni DevOps AI per il marketing."
-resume_looking_for_work: "yes"
+resume_looking_for_work: "no"
 ---
 
 <!-- Questo front matter serve solo per intestazione & info generali! 
